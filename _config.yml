@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Jiahao CHEN
+description: All judgements are, in their rationale, statistics.
+url: https://dr-jiahaochen.github.io/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: chenjiahao
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Jiahao CHEN
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/mr_chen_jiahao
+    - https://github.com/dr-jiahaoCHEN/dr-jiahaoCHEN.github.io
 google_site_verification: xxxxx
 lang: en
 
