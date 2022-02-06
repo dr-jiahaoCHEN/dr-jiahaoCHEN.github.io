@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Notes for the elements of statistical learning 1
+title: 《统计学习基础》笔记 1
 date: 2022-02-05 23:18 +0800
 last_modified_at: 2022-02-06 01:08:25 +0800
-tags: [ESL, EN]
+tags: [ESL, ZH]
 toc:  true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
