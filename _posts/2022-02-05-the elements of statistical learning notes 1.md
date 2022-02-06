@@ -7,4 +7,4 @@ tags: [The Elements of Statistical Learning notes, EN]
 toc:  true
 ---
 
-welcome to the elements of statistical learning notes 1. This page includes the first 6 chapters in the book of \textit{the elements of statistical learning}.
+welcome to the elements of statistical learning notes 1. This page includes the first 6 chapters in the book of <the elements of statistical learning>.
