@@ -12,7 +12,7 @@ toc:  true
 
 *Augest大魔王 2022-03-07*
 
-本文是关于[《The Elements of Statistical Learning learning》](https://github.com/dr-jiahaoCHEN/Mathematics-and-Statistics/blob/main/book%26notes/The%20Elements%20of%20Statistical%20Learning/(Springer%20Series%20in%20Statistics)%20Trevor%20Hastie%2C%20%20Robert%20Tibshirani%2C%20Jerome%20Friedman%20-%20The%20Elements%20of%20%20Statistical%20Learning_%20%20Data%20Mining%2C%20Inference%2C%20and%20Prediction.-Springer%20(2013).pdf)的学习笔试，主要涉及书的第一章到第二章的部分内容。该部分主要为入门介绍与基本概念的阐述。
+本文是关于[《The Elements of Statistical Learning learning》](https://github.com/dr-jiahaoCHEN/Mathematics-and-Statistics/blob/main/book%26notes/The%20Elements%20of%20Statistical%20Learning/(Springer%20Series%20in%20Statistics)%20Trevor%20Hastie%2C%20%20Robert%20Tibshirani%2C%20Jerome%20Friedman%20-%20The%20Elements%20of%20%20Statistical%20Learning_%20%20Data%20Mining%2C%20Inference%2C%20and%20Prediction.-Springer%20(2013).pdf)的学习笔记，主要涉及书的第一章到第二章的部分内容。该部分主要为入门介绍与基本概念的阐述。
 
 ## 1.介绍
 **输入变量(inputs)**，可以是测量得到或者预设的．这些变量对一个或多个**输出变量(outputs)** 有影响．便是利用输入变量去预测输出的值．这样的过程称之为**监督学习(supervised learning)**.
