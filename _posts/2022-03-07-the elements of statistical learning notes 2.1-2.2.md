@@ -4,6 +4,7 @@ title: 《统计学习基础》笔记 1
 date: 2022-02-05 23:18 +0800
 last_modified_at: 2022-02-06 01:08:25 +0800
 tags: [ESL, ZH]
+math: true
 toc:  true
 ---
 
