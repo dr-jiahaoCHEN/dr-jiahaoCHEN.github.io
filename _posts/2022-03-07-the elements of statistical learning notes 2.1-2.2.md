@@ -8,7 +8,7 @@ math: true
 toc:  true
 ---
 
-# The Elements of Statistical Learning learning notes 2.1-2.2
+# The Elements of Statistical Learning notes 2.1-2.2
 
 *Augest大魔王 2022-03-07*
 
