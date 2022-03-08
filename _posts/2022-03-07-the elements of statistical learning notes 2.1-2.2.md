@@ -8,10 +8,6 @@ math: true
 toc:  true
 ---
 
-# The Elements of Statistical Learning notes 2.1-2.2
-
-*Augest大魔王 2022-03-07*
-
 本文是关于[《The Elements of Statistical Learning learning》](https://github.com/dr-jiahaoCHEN/Mathematics-and-Statistics/blob/main/book%26notes/The%20Elements%20of%20Statistical%20Learning/(Springer%20Series%20in%20Statistics)%20Trevor%20Hastie%2C%20%20Robert%20Tibshirani%2C%20Jerome%20Friedman%20-%20The%20Elements%20of%20%20Statistical%20Learning_%20%20Data%20Mining%2C%20Inference%2C%20and%20Prediction.-Springer%20(2013).pdf)的学习笔记，主要涉及书的第一章到第二章的部分内容。该部分主要为入门介绍与基本概念的阐述。
 
 ## 1.介绍
