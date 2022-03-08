@@ -32,9 +32,9 @@ We will often denote input variables by the notation \\\(X\\\). If \\\(X\\\) is 
 
 Quantitative output variables are represented by \\\(Y\\\), and qualitative output variables are represented by \\\(G\\\).
 
-We] use capital letters \\\(X, Y, G\\\) to denote variables, and we denote observations of variables in lowercase letters; thus the first \\\( of \\\(X\\\) i\\\) observations are written as \\\(x_{i}\\\)
+We use capital letters \\\(X, Y, G\\\) to denote variables, and we denote observations of variables in lowercase letters; thus the first observation of \\\(X\\\) are written as \\\(x_{i}\\\)
 
-For example, \\\(N\\\\) \\\(p\\\\) dimensional input vectors \\\(x_{i}, i=1, \cdots, N\\\\) can be expressed as \\\(N \times p\\\) matrix \\\(\mathbf{X}\\\).
+For example, \\\(N \times p\\\) matrix \\\(\mathbf{X}\\\) can be written as:
 
 $$
 \mathbf{X}=\left[
@@ -49,4 +49,4 @@ $$
 
 Usually we represent dimensions as columns and observations as rows. So, according to the above matrix, each row is an input vector and each column is a dimension.
 
-We simply define statistical learning as follows: Given an input vector \\\(X\\\), make a good estimate of the output \\\(Y\\\), denoted as \\\(\hat{Y} \\\). And if \\\(Y\\\) evaluates to the real number \\\(\mathbf{R}\\\), then \\\(\hat{Y}\\\) evaluates to Also a real number \\\(\mathbf{R}\\\); Similarly, for categorical output, \\\(\hat{G}\\\) takes the value corresponding to \\\(G\\\) A set of values\\\(\mathcal{G}\\\).
+We simply define statistical learning as follows: Given an input vector \\\(X\\\), make a good estimate of the output \\\(Y\\\), denoted as \\\(\hat{Y} \\\). And if \\\(Y\\\) evaluates to the real number \\\(\mathbf{R}\\\), then \\\(\hat{Y}\\\) evaluates to Also a real number \\\(\mathbf{R}\\\); Similarly, for categorical output, \\\(\hat{G}\\\) takes the value corresponding to \\\(G\\\) A set of values \\\(\mathcal{G}\\\).
