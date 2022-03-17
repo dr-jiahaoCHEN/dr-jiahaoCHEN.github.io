@@ -4,6 +4,7 @@ title: The Elements of Statistical Learning notes 2.1-2.2
 date: 2022-03-08 23:18 +0800
 last_modified_at: 2022-03-08 23:18 +0800
 tags: [ESL, EN]
+categories: [Statistics,The Elements of Statistical Learning]
 math: true
 toc:  true
 ---
